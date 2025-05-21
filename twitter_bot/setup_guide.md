@@ -40,20 +40,20 @@ This guide provides step-by-step instructions for setting up and running your Tw
 
    On Windows:
    ```bash
-   set TWITTER_API_KEY=2SMqTYRHpqH745oLi59Y9vAOe
-   set TWITTER_API_SECRET=giTeE2LNAoxZZ2pSL6jCpnzS51yCs3Iet7jTAutorNrXeXCTtL
-   set TWITTER_BEARER_TOKEN=AAAAAAAAAAAAAAAAAAAAAPmL1wEAAAAAlYj7g9OyhdYTxjfuS8GL6GOtEwo%3D9V9ugKbkiSxgywY1PTnX4fEkmBmpYyHbYJ293qGDHOcP2M8Yme
-   set TWITTER_ACCESS_TOKEN=1450793652897341444-EVxI8JXCGMzRTtTHYnp04k8fioG1vs
-   set TWITTER_ACCESS_SECRET=DgRtL4EkQMvggal4LNJUWTURER2yFIpZbrnXTL6n9YzBm
+   set TWITTER_API_KEY=
+   set TWITTER_API_SECRET=
+   set TWITTER_BEARER_TOKEN=
+   set TWITTER_ACCESS_TOKEN=
+   set TWITTER_ACCESS_SECRET=
    ```
 
    On macOS/Linux:
    ```bash
-   export TWITTER_API_KEY=2SMqTYRHpqH745oLi59Y9vAOe
-   export TWITTER_API_SECRET=giTeE2LNAoxZZ2pSL6jCpnzS51yCs3Iet7jTAutorNrXeXCTtL
-   export TWITTER_BEARER_TOKEN=AAAAAAAAAAAAAAAAAAAAAPmL1wEAAAAAlYj7g9OyhdYTxjfuS8GL6GOtEwo%3D9V9ugKbkiSxgywY1PTnX4fEkmBmpYyHbYJ293qGDHOcP2M8Yme
-   export TWITTER_ACCESS_TOKEN=1450793652897341444-EVxI8JXCGMzRTtTHYnp04k8fioG1vs
-   export TWITTER_ACCESS_SECRET=DgRtL4EkQMvggal4LNJUWTURER2yFIpZbrnXTL6n9YzBm
+   export TWITTER_API_KEY=
+   export TWITTER_API_SECRET=
+   export TWITTER_BEARER_TOKEN=
+   export TWITTER_ACCESS_TOKEN=-
+   export TWITTER_ACCESS_SECRET=
    ```
 
    For permanent setup, add these to your `.bashrc`, `.zshrc`, or create a `.env` file and use a package like `python-dotenv` to load them.
