@@ -102,7 +102,7 @@ Contributions are welcome! If you'd like to improve this bot or have suggestions
 ## Contact
 
 For questions, customization requests, or collaboration opportunities, contact:
-- Telegram: [@balcansatoshi](https://t.me/balcansatoshi)
+- Telegram: [@balkansatoshi](https://t.me/balkansatoshi)
 
 ## License
 
